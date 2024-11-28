@@ -6,7 +6,7 @@ Challenge required us to download a zip file AKA godam's hard drive, after downl
 ![image](https://github.com/user-attachments/assets/fa1899a5-9829-4ca4-ac3c-9d62e25ea9fb)
 When going thru the folder after extracted, first info is that you can know that we are mostly looking for a file named places.sqlite that stores browser history.
 This can be confirm when the file path is identical of how Firefox browser store their user browsing history and with the keyword of the folder mozilla.
-
+<br>
 
 ![image](https://github.com/user-attachments/assets/7256c453-12ee-4d34-973a-2026c391f949)
 The places.sqlite is found, now we can see that inside the search history,after looking thru the links, most of the link looks normal except for this one (https://h4ck3r5club666.appspot.com/). 
