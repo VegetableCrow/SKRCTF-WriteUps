@@ -2,7 +2,6 @@ Name               : Path_Finder <br>
 Challenge category : Forensics <br>
 Challenge name     : Godam Secrets <br><br>
 
-![image](https://github.com/user-attachments/assets/29e2c596-aa6a-4b89-9091-50f7ff8d8d16) <br>
 Challenge required us to download a zip file AKA godam's hard drive, after download it, extract the zip file.
 <br>
 <br>
@@ -12,6 +11,7 @@ When going thru the folder after extracted, first info is that you can know that
 This can be confirm when the file path is identical of how Firefox browser store their user browsing history and with the keyword of the folder mozilla.
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/7256c453-12ee-4d34-973a-2026c391f949)
 The places.sqlite is found, now we can see that inside the search history,after looking thru the links, most of the link looks normal except for this one (https://h4ck3r5club666.appspot.com/). 
 <br>
