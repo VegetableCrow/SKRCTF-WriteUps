@@ -1,6 +1,6 @@
-Name               : Path_Finder
-Challenge category : Forensics 
-Challenge name     : Godam Secrets
+Name               : Path_Finder <br>
+Challenge category : Forensics <br>
+Challenge name     : Godam Secrets <br><br>
 
 ![image](https://github.com/user-attachments/assets/29e2c596-aa6a-4b89-9091-50f7ff8d8d16)
 
