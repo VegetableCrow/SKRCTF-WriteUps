@@ -1,6 +1,5 @@
-Name               : Path_Finder <br>
-Challenge category : Forensics <br>
-Challenge name     : Godam Secrets <br><br>
+## Godam Secrets
+![image](https://github.com/user-attachments/assets/fb130cfe-086d-47eb-ac42-2a5d41711f7f) <br>
 
 # Description :
 We managed to recover part of Godam's hard drive in his house, but we couldn't find anything suspicious. We hope you can help us in finding his secret.
