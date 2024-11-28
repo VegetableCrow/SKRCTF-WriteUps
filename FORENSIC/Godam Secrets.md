@@ -11,7 +11,7 @@ Challenge required us to download a zip file AKA godam's hard drive, after downl
 
 # Solution :
 ![image](https://github.com/user-attachments/assets/fa1899a5-9829-4ca4-ac3c-9d62e25ea9fb) <br>
-When going thru the folder after extracted, first info is that you can know that we are mostly looking for a file named places.sqlite that stores browser history.
+When going thru the folder after extracted, first info is that you can know that we are most likely looking for a file named places.sqlite that stores browser history.
 This can be confirm when the file path is identical of how Firefox browser store their user browsing history and with the keyword of the folder mozilla.
 <br>
 <br>
