@@ -1,6 +1,9 @@
-Name               : Path_Finder <br>
-Challenge category : Forensics <br>
-Challenge name     : Godam Secrets <br><br>
+# Name               : Path_Finder <br>
+# Challenge category : Forensics <br>
+# Challenge name     : Godam Secrets <br><br>
+
+# Description :
+We managed to recover part of Godam's hard drive in his house, but we couldn't find anything suspicious. We hope you can help us in finding his secret.
 
 Challenge required us to download a zip file AKA godam's hard drive, after download it, extract the zip file.
 <br>
@@ -48,7 +51,8 @@ Inside the home page of this sus website, the content looks weird and is in reve
 Go to cyber chef reverse it and extract the capital letters and piece the words together to form the flag.
 
 **FLAG**
+```
 SKR{SECRET_CLUB_IS_NOT_LONGER_SECRET}
-
+```
 
 
