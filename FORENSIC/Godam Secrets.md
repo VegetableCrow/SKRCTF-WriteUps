@@ -1,3 +1,7 @@
+Name               : Path_Finder
+Challenge category : Forensics 
+Challenge name     : Godam Secrets
+
 ![image](https://github.com/user-attachments/assets/29e2c596-aa6a-4b89-9091-50f7ff8d8d16)
 
 Challenge required us to download a zip file AKA godam's hard drive, after download it, extract the zip file.
