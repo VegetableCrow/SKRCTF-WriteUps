@@ -1,15 +1,19 @@
-##XSS-GPT
+## XSS-GPT
 ![image](https://github.com/user-attachments/assets/8479e899-7598-44fc-b4e0-c80bac8e3c72)
 
-#Description :
+# Description :
 I built a chatgpt website using chatgpt. Feel free to try it! Remember to report to me if you found any bug
 
-#Solution :
+# Solution :
 
-![image](https://github.com/user-attachments/assets/cd35f7db-48be-43b8-853f-879741ba8250)
+![image](https://github.com/user-attachments/assets/cd35f7db-48be-43b8-853f-879741ba8250) <br>
+The challenge will bring us to a link that looks like chatgpt. I'm not allow to progress further as it says I do not have the API key but we can see that we have a lead that we can 
+try to tamper with the API key value with other things
 
+![image](https://github.com/user-attachments/assets/cc0c29db-0c5c-4645-bf5b-f5ed15d8480d) <br>
+Since the challenge says XSS GPT, I try it rit away and a little changes is that the XSS payload needs to starts with the closing of </script> else it will not work because the API key part is wrap inside the JS script
 
-![image](https://github.com/user-attachments/assets/cc0c29db-0c5c-4645-bf5b-f5ed15d8480d)
+![image](https://github.com/user-attachments/assets/08b40eda-e0a7-4b3d-9e32-d0166ff15083)
 
 
 ![image](https://github.com/user-attachments/assets/ce4526ba-a301-4ddc-900a-4b3a7e797624)
