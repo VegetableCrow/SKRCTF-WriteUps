@@ -31,7 +31,7 @@ Fire up BurpSuite and capture the reportAdmin request and send it to Repeater, w
 <br>
 
 ![image](https://github.com/user-attachments/assets/ca3034f4-b787-4524-9719-41c0d465c2fc) <br>
-Search webhook.site, by default they will prepare a hosting site for you, copy it and paste it in BurpSuite
+Search webhook.site, by default they will prepare a hosting site for you, copy it and paste it in BurpSuite <br>
 <br>
 <br>
 
