@@ -53,7 +53,7 @@ Copy the URL encode format XSS payload and replace the null value of the key and
 <br>
 
 ![image](https://github.com/user-attachments/assets/ef6afacc-a7d0-4610-945d-70113e584f18) <br>
-The flag is at the quesry string section. Yatta!
+The flag is at the query string section. Yatta!
 <br>
 <br>
 
