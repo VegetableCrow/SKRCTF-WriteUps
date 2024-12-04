@@ -1,6 +1,6 @@
-Name              : Lai Jian Hui 
-Challenge Category: Web
-Challenge Name    : XSS-GPT
+Name              : Lai Jian Hui <br>
+Challenge Category: Web <br>
+Challenge Name    : XSS-GPT <br>
 
 ## XSS-GPT
 ![image](https://github.com/user-attachments/assets/8479e899-7598-44fc-b4e0-c80bac8e3c72) <br>
