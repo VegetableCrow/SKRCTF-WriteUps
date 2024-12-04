@@ -14,7 +14,14 @@ I built a chatgpt website using chatgpt. Feel free to try it! Remember to report
 
 ![image](https://github.com/user-attachments/assets/ce4526ba-a301-4ddc-900a-4b3a7e797624)
 
+
 ![image](https://github.com/user-attachments/assets/ca3034f4-b787-4524-9719-41c0d465c2fc)
+
+
+![image](https://github.com/user-attachments/assets/66d95877-39ac-4c11-9f66-31f81b186f6d)
+
+
+![image](https://github.com/user-attachments/assets/36963aa9-c499-49ef-b70f-9a50613182ea)
 
 
 ![image](https://github.com/user-attachments/assets/a1e70c8a-812d-482c-8ecf-d31576d5c866)
