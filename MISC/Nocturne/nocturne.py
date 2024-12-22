@@ -11,7 +11,7 @@ def convert_to_binary(dot_dash_sequence):
 
     return binary_chunks
 
-# Example usage
+# From midi file
 dot_dash_sequences = [
     "_._.__.._.__._..",
     "_._.__.__...._..",
