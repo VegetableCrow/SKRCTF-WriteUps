@@ -26,6 +26,7 @@ This part I guess is where most people find it lost even though you are on the r
 Second is if we read it from the right to left, we need to add in a value 0 in the very front of the red bar in the nocturne.mid file right after we convert the red bar into 1 and spaces into 0. But even though manage to count it, reading from the right to left might cause some miscalcaulate of bits. So the safe way is to count from the left to right in this case, which you will be counting from the last character to the first character to avoid lefting out any bits.
 
 Anyways lets get the flag now.
-![image](https://github.com/user-attachments/assets/86852224-5118-4ff1-8524-8748ab776d8f)
+![image](https://github.com/user-attachments/assets/ffaa55eb-eef4-48a4-8f42-fb0ef0a5b272)
+
 
 
