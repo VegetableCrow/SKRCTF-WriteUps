@@ -1,6 +1,6 @@
 def convert_to_binary(dot_dash_sequence):
     # Replace dots and dashes with binary equivalents
-    binary_sequence = dot_dash_sequence.replace(".", "1").replace("_", "0")
+    binary_sequence = dot_dash_sequence.replace("_", "1").replace(".", "0")
 
     # Break the binary sequence into chunks of 8 bits
     binary_chunks = [binary_sequence[i:i+8] for i in range(0, len(binary_sequence), 8)]
